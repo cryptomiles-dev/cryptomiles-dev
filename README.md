@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Readme Stats](https://github-readme-stats-git-master-cryptomiles-projects.vercel.app/api?username=cryptomiles-dev)
+
