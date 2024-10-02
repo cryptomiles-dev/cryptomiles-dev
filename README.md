@@ -7,5 +7,5 @@
 
 -->
 
-![GitHub Readme Stats](https://github-readme-stats-git-master-cryptomiles-projects.vercel.app/api?username=cryptomiles-dev)
+![GitHub Readme Stats](https://github-readme-stats-git-master-cryptomiles-projects.vercel.app/api?username=cryptomiles-dev&show_icons=true&theme=radical&cache_seconds=1800)
 
