@@ -11,5 +11,5 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cryptomiles-dev&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cryptomiles-dev)](https://git.io/streak-stats)
 
