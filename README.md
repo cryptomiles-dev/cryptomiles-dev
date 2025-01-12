@@ -9,3 +9,7 @@
 
 ![GitHub Readme Stats](https://github-readme-stats-git-master-cryptomiles-projects.vercel.app/api?username=cryptomiles-dev)
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cryptomiles-dev&theme=dark)](https://git.io/streak-stats)
+
