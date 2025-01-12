@@ -11,11 +11,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cryptomiles-dev)](https://git.io/streak-stats)
-
-github-readme-streak-stats-git-main-cryptomiles-projects.vercel.app
-github-readme-streak-stats-85lgvj83w-cryptomiles-projects.vercel.app
-
 
 [![GitHub Streak](https://github-readme-streak-stats-git-main-cryptomiles-projects.vercel.app?user=cryptomiles-dev)](https://git.io/streak-stats)
 
